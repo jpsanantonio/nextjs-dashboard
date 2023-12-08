@@ -9,7 +9,7 @@ import { InvoicesTableSkeleton } from "@/app/ui/skeletons";
 import { Suspense } from "react";
 
 export const metadata: Metadata = {
-  title: "Invoices | Acme Dashboard",
+  title: "Invoices",
 };
 
 export default async function Page({
