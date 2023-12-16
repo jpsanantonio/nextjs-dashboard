@@ -4,7 +4,7 @@ import Breadcrumbs from "@/app/ui/invoices/breadcrumbs";
 import { fetchCustomers } from "@/app/lib/data";
 
 export const metadata: Metadata = {
-  title: "Create Invoice",
+  title: "Create",
 };
 
 export default async function Page() {
